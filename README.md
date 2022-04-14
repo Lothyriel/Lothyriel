@@ -1,5 +1,3 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Lothyriel>&theme=<THEME_NAME>" />
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Lothyriel">
